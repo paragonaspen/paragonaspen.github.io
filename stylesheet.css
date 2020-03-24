@@ -11,7 +11,7 @@ h1 {color:#E8C547;}
 
 body {background-color:#CDD7D6;} 
 
-span {margin-left: 20%;}
+span {margin-left: 7.5%;}
 
 @media (max-width:768px) {
   img#logo_main {display: none;}
