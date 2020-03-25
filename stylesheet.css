@@ -8,7 +8,7 @@ a {color:#5C80BC;}
 
 h1 {color:#E8C547;}
 
-body {background-color:#F7F9F9; height: 100vh;} 
+body {background-color:#F7F9F9;} 
 
 span {margin-left: 2%;}
 
@@ -17,4 +17,4 @@ span {margin-left: 2%;}
   span {margin-left: 0%;}
 }
 
-footer {color:#5C80BC; flex: 1 0 auto;}
+footer {color:#5C80BC;}
