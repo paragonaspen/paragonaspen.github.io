@@ -1,0 +1,5 @@
+Add site icon to all pages (paragontraining completed)
+
+Responsive padding for Programming DB (remove <BR> on mobile between rows)
+
+ParagonTraining Index - make columns same height
