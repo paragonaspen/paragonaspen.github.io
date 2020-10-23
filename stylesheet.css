@@ -15,6 +15,9 @@ span {margin-left: 2%;}
 @media (max-width:768px) {
   img#logo_main {display: none;}
   span {margin-left: 0%;}
+  .row {padding-bottom: 0% !important;}
 }
 
 footer {color:#5C80BC;}
+
+
